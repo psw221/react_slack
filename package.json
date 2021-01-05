@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/psw221/react_slack#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router": "^5.0.1",
